@@ -1,0 +1,59 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "Grocery List",
+      "date_created": "2024-03-25",
+      "items_count": 5,
+      "total_price": 50.00,
+      "is_completed": false,
+      "priority": "High",
+      "owner": "John Doe",
+      "notes": "Don't forget to buy organic fruits"
+    },
+    {
+      "id": 2,
+      "name": "Shopping List",
+      "date_created": "2024-03-26",
+      "items_count": 3,
+      "total_price": 30.00,
+      "is_completed": true,
+      "priority": "Medium",
+      "owner": "Jane Smith",
+      "notes": "Check for discounts on clothing items"
+    },
+    {
+      "id": 3,
+      "name": "Home Improvement List",
+      "date_created": "2024-03-27",
+      "items_count": 7,
+      "total_price": 100.00,
+      "is_completed": false,
+      "priority": "High",
+      "owner": "Alice Johnson",
+      "notes": "Buy supplies for weekend DIY project"
+    },
+    {
+      "id": 4,
+      "name": "Electronics List",
+      "date_created": "2024-03-28",
+      "items_count": 10,
+      "total_price": 500.00,
+      "is_completed": false,
+      "priority": "High",
+      "owner": "Bob Williams",
+      "notes": "Research latest models before purchasing"
+    },
+    {
+      "id": 5,
+      "name": "Clothing List",
+      "date_created": "2024-03-29",
+      "items_count": 4,
+      "total_price": 80.00,
+      "is_completed": true,
+      "priority": "Low",
+      "owner": "Emily Brown",
+      "notes": "Check for sizing before buying"
+    }
+  ]
+}
